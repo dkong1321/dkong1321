@@ -34,3 +34,13 @@ Through my time at App Academy I was able to further my programming knowledge in
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+## Explore my Projects!
+TaskBeaver
+Nat-Parkr
+Komication
+Kanto-Prime
+
+---
+Contact Me
