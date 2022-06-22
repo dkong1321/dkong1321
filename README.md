@@ -37,10 +37,19 @@ Through my time at App Academy I was able to further my programming knowledge in
 
 ---
 ## Explore my Projects!
-TaskBeaver
-Nat-Parkr
-Komication
-Kanto-Prime
+
+- TaskBeaver : https://task-beaver.herokuapp.com/
+- Nat-Parkr : https://nat-parkr.herokuapp.com/
+- Komication : https://komication.herokuapp.com/
+- Kanto-Prime : https://kanto-prime.herokuapp.com/
 
 ---
 Contact Me
+
+Email: dkong1321@gmai.com
+[LinkedIn](https://www.linkedin.com/in/darren-ying-kong/)
+[AngelList](https://angel.co/u/darren-kong-4)
+
+
+
+
