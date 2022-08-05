@@ -46,7 +46,7 @@ Through my time at App Academy I was able to further my programming knowledge in
 ---
 Contact Me
 
-Email: dkong1321@gmai.com
+Email: dkong1321@gmail.com
 [LinkedIn](https://www.linkedin.com/in/darren-ying-kong/)
 [AngelList](https://angel.co/u/darren-kong-4)
 
