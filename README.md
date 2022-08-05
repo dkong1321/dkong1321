@@ -49,7 +49,7 @@ Contact Me
 Email: dkong1321@gmail.com
 [LinkedIn](https://www.linkedin.com/in/darren-ying-kong/)
 [AngelList](https://angel.co/u/darren-kong-4)
-
+[Portfolio Site](https://dkong1321.github.io/dkong-portfolio-page/)
 
 
 
